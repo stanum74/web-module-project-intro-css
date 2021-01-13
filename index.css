@@ -1,0 +1,162 @@
+
+
+html{
+    font-size: 1.5rem;
+    line-height: 1.5;
+    font-family: Roboto Mono;
+}
+body{
+  text-align: center;
+}
+
+h1, h2, {
+    font-size: 55px;
+    font-family: Roboto Mono;
+    display: inline;
+}
+
+.Container1{
+  margin: 0 2% 4%;
+}
+
+.main p{
+    color:white;
+    display:inline-block;
+    font-family: Roboto Mono;
+  text-indent: 5%;
+}
+
+.top{
+    margin: 5%;
+    margin-top: 5%;
+    display: inline-block;
+    text-align: center;
+}
+
+.top img{
+     float: left;
+     padding: 5px, 5px, 0px, 15px;
+     border-radius: 50%;
+     width: 250px;
+     height: 200px;
+
+}
+
+.top h1{
+    font-family: Chelsea Market;
+    display: inline-block;
+    text-align: center;
+
+}
+
+.top h2{
+    display: inline-block;
+    font-size: 80%;
+    text-align: center;
+    font-family: Roboto Mono;
+}
+
+
+
+nav{
+text-align:center;
+padding: 6% 0% 4% 0%;
+}
+
+.plan{
+    display:inline-block;
+    color:white;
+    border-radius: 25px;
+    background: #FF764E;
+    padding: 20px;
+    line-height: 1.6;
+    margin: 0% 2%;
+}
+
+.learn{
+    display:inline-block;
+    color: white;
+    border-radius: 25px;
+    background: #5ED3EB;
+    padding: 20px;
+    line-height: 1.6;
+    margin: 0% 2%;
+}
+
+.get{
+    display:inline-block;
+    color: white;
+    border-radius: 25px;
+    background: #FFCD69;
+    padding: 20px;
+    line-height: 1.6;
+    margin: 0% 2%;
+}
+
+.container{
+  margin:5% 50%;
+  text-align: center;
+}
+
+.bus{
+    width: 50px;
+    margin: 0 53% 2%; 
+}
+
+.fireimg{
+  width: 3%;
+  height: 5%;
+  margin: 0 53% 2%; 
+}
+
+.main{
+    background-color: #DDB9A3;
+}
+
+.main p{
+  font-family: Roboto Mono;
+}
+
+footer{
+    background-color: #F9E7DC;
+}
+
+a {
+   text-decoration: none;
+
+}
+
+p.one{
+  text-align:center;
+  font-size: 60%;
+}
+
+p.two{
+  text-align:center;
+  font-size: 60%;
+}
+
+.bustext{
+ word-wrap: break-word;
+ height: 15%;
+ width: 15%;
+ margin:0% 50% 5%;
+}
+
+.firetext{ 
+ word-wrap: break-word;
+ height: 15%;
+ width: 15%;
+ margin:0% 50% 5%;
+}
+
+
+ .footerimg{
+   border-radius: 0;
+   width: 33.5%;
+
+ }
+
+ img{
+   width:300%;
+ }
